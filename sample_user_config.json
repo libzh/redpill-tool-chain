@@ -4,12 +4,13 @@
         "vid": "0x46f4",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
+        "SasIdxMap": "0",
         "DiskIdxMap": "0400",
         "SataPortMap": "44",
         "netif_num": 1
     },
     "synoinfo": {
-        "maxlanport": 2
+        "maxlanport": "1"
     },
     "ramdisk_copy": {},
     "extensions": []
