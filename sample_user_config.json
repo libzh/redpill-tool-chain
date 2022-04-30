@@ -3,9 +3,16 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "mac1": "XXYYXXYYXXYY",
+        "DiskIdxMap": "0400",
+        "SataPortMap": "44",
+        "netif_num": 1
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "supportsystemperature": "no",
+        "supportsystempwarning": "no",
+        "maxlanport": 2
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
