@@ -9,8 +9,6 @@
         "netif_num": 1
     },
     "synoinfo": {
-        "supportsystemperature": "no",
-        "supportsystempwarning": "no",
         "maxlanport": 2
     },
     "ramdisk_copy": {},
